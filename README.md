@@ -16,12 +16,6 @@ This application allows users to calculate their BMI using either **Metric** or 
   * Normal weight
   * Overweight
   * Obese
-* ✅ Color-coded results:
-
-  * 🔵 Underweight
-  * 🟢 Normal
-  * 🟠 Overweight
-  * 🔴 Obese
 * ✅ Input validation (prevents invalid or negative values)
 * ✅ Clear button to reset inputs
 
